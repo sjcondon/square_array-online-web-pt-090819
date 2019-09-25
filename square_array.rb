@@ -6,3 +6,4 @@ def square_array(array)
   else 
     num **2
 end
+end
